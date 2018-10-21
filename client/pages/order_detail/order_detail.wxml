@@ -1,0 +1,46 @@
+<view class="pages">
+    <view class="step">
+        <view class="steps">
+            <view class="text">用户信息</view>
+            <view class="active text">孩子信息</view>
+            <view>孩子父母</view>
+            <view>完成提交</view>
+        </view>
+    </view>
+
+    <!--address-->
+    <view class="address">
+        <view class="top">
+            <view class="name">王五</view>
+            <view class="tel">152****5699</view>
+        </view>
+        <view class="detail">
+            山东省 济南市 高新区 奥体中路奥体西路奥体东路7421
+        </view>
+    </view>
+
+    <view class="list order_goods">
+        <view class="order_good">
+            <view class="good_item">
+                <view class="good_cover">
+                    <image src="//img10.360buyimg.com/mobilecms/s187x187_jfs/t16711/109/725325972/405096/5c71a589/5aa38f27N8d091012.jpg!q70.dpg.webp"></image>
+                </view>
+                <view class="good_cont">
+                    <view class="good_info">
+                        <view class="info_desc">
+                            <view class="good_name">
+                                名仁含汽苏打水汽水气泡水柠檬味无糖汽水汤力水330ml*24罐
+                            </view>
+                        </view>
+                        <view class="info_price"><view class="price">¥59.90</view>
+                            <view class="count">x2</view></view>
+                    </view>
+                    <view class="good_btns"></view>
+                </view>
+            </view>
+        </view>
+        <view class="topay">
+            <button>去支付</button>
+        </view>
+    </view>
+</view>

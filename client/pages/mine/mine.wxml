@@ -1,0 +1,71 @@
+<view class="" id="wrapper">
+    <!--用户信息-->
+    <view class="my_header_v4_wrap">
+        <view class="my_header_v4">
+            <view class="my_header_v4_main" id="myHeader">
+                <view class="my_header_v4_avatar">
+                    <view class="my_header_v4_avatar_img">
+                        <image id="headPic" src="http://storage.360buyimg.com/i.imageUpload/6475616e38333835363035373431343638303737333936363435_mid.jpg"></image>
+                    </view>
+                </view>
+                <view class="my_header_v4_msg">
+                    <view class="my_header_v4_name">
+                        <span class="my_header_v4_name_text" data-tag="editNameSpan">29</span>
+                        <i class="my_header_v4_name_edit" data-tag="editNamei"></i>
+                    </view>
+                    <view class="my_header_v4_pin" id="userName" data-pin="29">用户名：29</view>
+                    <view class="my_header_v4_info">
+                        <navigator href="javascript:;" class="my_header_v4_link"
+                           data-url="//vip.m.jd.com/homepage.html?sceneval=2&amp;sid=" data-addsite=""
+                           data-eventid="MMyJD_JingMember" data-eventparam="" data-eventlevel=""
+                           ptag="7155.3.3">京享值4360</navigator>
+                        <navigator href="javascript:;" class="my_header_v4_link" id="xiaobaiCredit" style="" ptag="7155.3.36"
+                           data-url="//credit.jd.com/wq/index.html?channel=wq&amp;from=m">小白信用96.9</navigator>
+                        <navigator href="javascript:;" class="my_header_v4_plus" id="vipplusItem" data-on="plus" ptag="7155.3.2"
+                           data-addsite="" data-eventid="MMyJD_MemberPlus" data-eventparam="" data-eventlevel="">
+                            <view class="my_header_v4_plus_btn">尊享8大特权</view>
+                        </navigator>
+                    </view>
+                </view>
+                <navigator class="my_header_v4_settings" href="javascript:;" ptag="7155.3.1" data-addsite=""
+                   data-eventid="MMyJD_AccountManager" data-eventparam="" data-eventlevel="2"
+                   data-url="//wqs.jd.com/my/accountv2.shtml?sceneval=2&amp;ptag=7155.3.1">账号管理</navigator>
+            </view>
+        </view>
+    </view>
+
+    <!--我的钱包-->
+    <view class="tab_header">
+        <view class="ul">
+            <view class="li_4"><view class="v_num">0张</view><view class="v_sub">优惠券</view></view>
+            <view class="li_4"><view class="v_num">0张</view><view class="v_sub">优惠券</view></view>
+            <view class="li_4"><view class="v_num">0张</view><view class="v_sub">优惠券</view></view>
+            <view class="li_4"><view class="v_num">0张</view><view class="v_sub">优惠券</view></view>
+        </view>
+    </view>
+    <view class="order">
+        <view class="lt_title">我的订单</view>
+        <navigator class="rt_title" url="">全部订单></navigator>
+    </view>
+    <!--订单信息-->
+    <view class="tab_header">
+        <view class="ul">
+            <view class="li_4"><image src='../images/alert.png'></image>分类1</view>
+            <view class="li_4"><image src='../images/alert.png'></image>分类2</view>
+            <view class="li_4"><image src='../images/alert.png'></image>分类3</view>
+            <view class="li_4"><image src='../images/alert.png'></image>分类4</view>
+        </view>
+    </view>
+    <!--其他功能-->
+    <view class="tab_header">
+        <view class="ul">
+            <view class="li_4"><image src='../images/alert.png'></image>分类1</view>
+            <view class="li_4"><image src='../images/alert.png'></image>分类2</view>
+            <view class="li_4"><image src='../images/alert.png'></image>分类3</view>
+            <view class="li_4"><image src='../images/alert.png'></image>分类4</view>
+        </view>
+    </view>
+    <view class="banner">
+        <image src="../images/goods/a.png"></image>
+    </view>
+</view>

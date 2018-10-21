@@ -40,7 +40,6 @@ Page({
                 {'title':'家用电器',id:4,goods:{0:{'name':"内裤",img:'a.png'},1:{'name':"微波炉",img:'a.png'}},},
             ]
         })
-
     },
 
     //事件处理函数
