@@ -1,0 +1,79 @@
+<!--index.wxml-->
+<view class="container">
+  <view class='hearbar'>
+    <view class='sign'>
+      <image src='../images/calendar.png'></image>
+      <view>签到</view>
+    </view>
+    <view class='search'>
+      <image src='../images/search.png'></image>
+      <input placeholder="搜索商品" auto-focus/>
+    </view>
+    <view class='news'>
+      <image src='../images/alert.png'></image>
+      <view>消息</view>
+    </view>
+  </view>
+
+  <view class='swiper_container'>
+    <swiper indicator-dots="{{indicatorDots}}"
+            autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+      <block wx:for="{{imgUrls}}">
+        <swiper-item>
+          <image src="{{item}}" class="slide-image" width="355" height="150"/>
+        </swiper-item>
+      </block>
+    </swiper>
+  </view>
+
+  <view class='tab_container'>
+    <view class='tab_header'>
+      <view class="ul">
+        <view class="li_4"><image src='../images/alert.png'></image>分类1</view>
+        <view class="li_4"><image src='../images/alert.png'></image>分类2</view>
+        <view class="li_4"><image src='../images/alert.png'></image>分类3</view>
+        <view class="li_4"><image src='../images/alert.png'></image>分类4</view>
+      </view>
+    </view>
+    <view class='tab_comtainer'>
+      <view class="best">
+        <view class="title">本期精选</view>
+        <view class="banner01">
+          <image src="../images/goods/a.png"></image>
+        </view>
+        <view class="banner02">
+          <view class="banner02_lt"><image src="../images/goods/b.jpg"></image></view>
+          <view class="banner02_rt"><image src="../images/goods/c.jpg"></image></view>
+        </view>
+      </view>
+      <view class="kill">
+        <view class="title">今日秒杀</view>
+        <scroll-view scroll-x class="kill_container scroll-header">
+            <view class="item" wx:for="{{array}}">
+              <image src="../images/goods/b.jpg"></image>
+              <view class="goodsname">商品标题标题标题</view>
+              <view class="price">￥299</view>
+              <view class="old_price">￥300</view>
+            </view>
+        </scroll-view>
+      </view>
+
+      <view class="recomm">
+        <view class="title">
+          为您推荐
+        </view>
+        <scroll-view class="scroll-view_H recomm_container" scroll-y style="width: 100%">
+            <view class="item" wx:for="{{array}}">
+              <image src="../images/goods/b.jpg"></image>
+              <view class="goodsname">商品标题标题标商品标题标题标题商品标题标题标题题</view>
+              <view class="price">￥299</view>
+              <view class="num">已售：300</view>
+            </view>
+          <view class="loading">
+            loading...
+          </view>
+        </scroll-view>
+      </view>
+    </view>
+  </view>
+</view>
