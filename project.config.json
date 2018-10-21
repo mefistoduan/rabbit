@@ -10,5 +10,31 @@
 	},
 	"appid": "wxb7eb65565488d9dd",
 	"projectname": "rabbit",
-	"condition": {}
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "catalog",
+					"pathName": "pages/catalog/catalog"
+				}
+			]
+		}
+	}
 }

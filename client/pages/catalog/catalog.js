@@ -1,66 +1,56 @@
-// pages/catalog.js
+var app = getApp()
 Page({
+    data: {
+        navLeftItems: [],
+        navRightItems: [],
+        curNav: 1,
+        curIndex: 0,
+        nodata:'暂无数据'
+    },
+    onLoad: function() {
 
-  /**
-   * 页面的初始数据
-   */
-  data: {
-  
-  },
+        var that = this;
 
-  /**
-   * 生命周期函数--监听页面加载
-   */
-  onLoad: function (options) {
-  
-  },
+        // wx.request({
+        //     url: '',
+        //     method: 'GET',
+        //     data: {},
+        //     header: {
+        //         'Accept': 'application/json'
+        //     },
+        //     success: function(res) {
+        //         that.setData({
+        //             navLeftItems: res.data,
+        //             navRightItems: res.data
+        //         })
+        //     }
+        // })
 
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
-  
-  },
+        that.setData({
+            navLeftItems: [
+                {'title':'热门推荐',id:1 ,goods:{0:{'name':"手机",img:'a.png'},1:{'name':"充电宝",img:'a.png'}},},
+                {'title':'手机数码',id:2,goods:{0:{'name':"牛奶",img:'a.png'},1:{'name':"洗衣液",img:'a.png'}},},
+                {'title':'电脑办公',id:3,goods:{0:{'name':"U盘",img:'a.png'},1:{'name':"耳机",img:'a.png'}},},
+                {'title':'家用电器',id:4,goods:{0:{'name':"内裤",img:'a.png'},1:{'name':"微波炉",img:'a.png'}},},
+                ],
+            navRightItems: [
+                {'title':'热门推荐',id:1 ,goods:{0:{'name':"手机",img:'a.png'},1:{'name':"充电宝",img:'a.png'}},},
+                {'title':'手机数码',id:2,goods:{0:{'name':"牛奶",img:'a.png'},1:{'name':"洗衣液",img:'a.png'}},},
+                {'title':'电脑办公',id:3,goods:{0:{'name':"U盘",img:'a.png'},1:{'name':"耳机",img:'a.png'}},},
+                {'title':'家用电器',id:4,goods:{0:{'name':"内裤",img:'a.png'},1:{'name':"微波炉",img:'a.png'}},},
+            ]
+        })
 
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow: function () {
-  
-  },
+    },
 
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-  
-  },
+    //事件处理函数
+    switchRightTab: function(e) {
+        let id = e.target.dataset.id,
+            index = parseInt(e.target.dataset.index);
+        this.setData({
+            curNav: id,
+            curIndex: index
+        })
+    }
 
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-  
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-  
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-  
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
-  onShareAppMessage: function () {
-  
-  }
-})
+});
