@@ -43,4 +43,55 @@
             <button>去支付</button>
         </view>
     </view>
+
+    <view class="order_list">
+        <view class="cons_line">
+            <view class="lt">订单编号</view>
+            <view class="rt">20181001152365478</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">下单时间</view>
+            <view class="rt">2018-10-1 15:27</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">支付方式</view>
+            <view class="rt">在线支付</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">配送方式</view>
+            <view class="rt">门店自提</view>
+        </view>
+        <view class="diver_info">
+            <view class="row">门店名称：会展中心</view>
+            <view class="row">联系电话：0531-89636523</view>
+            <view class="row">门店地址：会展中心</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">订单留言</view>
+            <view class="rt">不要标注姓名</view>
+        </view>
+    </view>
+
+    <view class="count_list">
+        <view class="cons_line">
+            <view class="lt">商品总金额</view>
+            <view class="rt">￥400</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">积分</view>
+            <view class="rt">- ￥400</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">红包</view>
+            <view class="rt">- ￥400</view>
+        </view>
+        <view class="cons_line">
+            <view class="lt">优惠卷</view>
+            <view class="rt">- ￥400</view>
+        </view>
+        <view class="cons_line count_num">
+            <view class="lt">实付</view>
+            <view class="rt">￥400</view>
+        </view>
+    </view>
 </view>
