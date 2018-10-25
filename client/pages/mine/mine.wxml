@@ -16,20 +16,14 @@
                     <view class="my_header_v4_pin" id="userName" data-pin="29">用户名：29</view>
                     <view class="my_header_v4_info">
                         <navigator href="javascript:;" class="my_header_v4_link"
-                           data-url="//vip.m.jd.com/homepage.html?sceneval=2&amp;sid=" data-addsite=""
-                           data-eventid="MMyJD_JingMember" data-eventparam="" data-eventlevel=""
-                           ptag="7155.3.3">京享值4360</navigator>
-                        <navigator href="javascript:;" class="my_header_v4_link" id="xiaobaiCredit" style="" ptag="7155.3.36"
-                           data-url="//credit.jd.com/wq/index.html?channel=wq&amp;from=m">小白信用96.9</navigator>
-                        <navigator href="javascript:;" class="my_header_v4_plus" id="vipplusItem" data-on="plus" ptag="7155.3.2"
-                           data-addsite="" data-eventid="MMyJD_MemberPlus" data-eventparam="" data-eventlevel="">
+                           ptag="7155.3.3">值4360</navigator>
+                        <navigator href="javascript:;" class="my_header_v4_link" id="xiaobaiCredit" style="" >信用96.9</navigator>
+                        <navigator href="javascript:;" class="my_header_v4_plus" id="vipplusItem" >
                             <view class="my_header_v4_plus_btn">尊享8大特权</view>
                         </navigator>
                     </view>
                 </view>
-                <navigator class="my_header_v4_settings" href="javascript:;" ptag="7155.3.1" data-addsite=""
-                   data-eventid="MMyJD_AccountManager" data-eventparam="" data-eventlevel="2"
-                   data-url="//wqs.jd.com/my/accountv2.shtml?sceneval=2&amp;ptag=7155.3.1">账号管理</navigator>
+                <navigator class="my_header_v4_settings" url="/pages/person/person" >账号管理</navigator>
             </view>
         </view>
     </view>
