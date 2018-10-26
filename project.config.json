@@ -27,7 +27,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 3,
+			"current": 4,
 			"list": [
 				{
 					"id": -1,
@@ -50,7 +50,14 @@
 				{
 					"id": -1,
 					"name": "order_detail",
-					"pathName": "pages/order_detail/order_detail"
+					"pathName": "pages/order_detail/order_detail",
+					"query": ""
+				},
+				{
+					"id": 4,
+					"name": "appraise",
+					"pathName": "pages/appraise/appraise",
+					"query": ""
 				}
 			]
 		}

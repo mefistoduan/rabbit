@@ -1,0 +1,96 @@
+/* client/pages/appraise/appraise.wxss */
+.detail_extra {
+    width: 96%;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+}
+.detail_extra .detail_row {
+    border-bottom: none;
+}
+.detail_extra .detail_row.detail_row_cmt {
+    border-bottom: 0;
+}
+.tit {
+    width: 35%;
+    float: left;
+    font-size: 14px;
+    padding: 0;
+    line-height: 45px;
+}
+.icon_promote {
+    width: 20px;
+    height: 20px;
+    background-position: -80px -35px;
+    position: absolute;
+    top: 50%;
+    margin-top: -10px;
+    right: 10px;
+}
+.good {
+    float: left;
+    left: 52px;
+    color: #e4393c;
+}
+.evalRate {
+    color: #e4393c;
+}
+.count {
+    right: 40px;
+}
+.detail_row_cmt .num {
+    margin: 0 4px;
+}
+.cmt_tag_new {
+    padding: 14px 3px 4px 0;
+    max-height: 58px;
+    margin: 0;
+}
+.cmt_tag view {
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    padding: 0 5px;
+    height: 25px;
+    border-radius: 3px;
+    line-height: 25px;
+    font-size: 10px;
+    font-family: -apple-system,Helvetica,sans-serif;
+    color: #666;
+    background: #f2f2f7;
+}
+.detail_cmt .cmt_tag.cmt_tag_new span {
+    margin: 0 10px 7px 0;
+    background: #fdf0f0;
+}
+.detail_cmt .cmt_cnt {
+    position: relative;
+    line-height: 1.3;
+    margin: 5px 0;
+    word-break: break-all;
+    overflow: hidden;
+}
+.cmt_att {
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    overflow: hidden;
+    overflow-x: auto;
+    margin-right: -10px;
+    padding-bottom: 4px;
+}
+.detail_cmt .cmt_att .img {
+    width: 68px;
+    height: 68px;
+    display: inline-block;
+    margin-right: 3px;
+    overflow: hidden;
+    text-align: center;
+    background: #f3f3f3;
+    margin-bottom: 1px;
+}
+.img image {
+    width: auto;
+    display: inline-block;
+    height: auto;
+    min-width: 68px;
+    max-height: 68px;
+}

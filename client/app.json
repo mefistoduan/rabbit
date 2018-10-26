@@ -4,7 +4,8 @@
     "pages/catalog/catalog",
     "pages/cart/cart",
     "pages/mine/mine",
-    "pages/order_detail/order_detail"
+    "pages/order_detail/order_detail",
+    "pages/appraise/appraise"
   ],
   "tabBar": {
     "list": [
