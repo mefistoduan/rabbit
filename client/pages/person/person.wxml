@@ -1,0 +1,46 @@
+<view class="nav-list">
+    <view class="li">
+        <view class="a" >
+            <view class="cate-title">头像</view>
+            <view class="imwap-arrow_r right-icon">></view>
+            <view class="rt_container">
+                <image src="../images/goods/a.png" class="choice_img"></image>
+            </view>
+        </view>
+    </view>
+    <view class="li">
+        <view class="a" >
+            <view class="cate-title">昵称</view>
+            <view class="imwap-arrow_r right-icon">></view>
+            <view class="rt_container">xxx</view>
+        </view>
+    </view>
+    <view class="li">
+        <view class="a" >
+            <view class="cate-title">手机</view>
+            <view class="imwap-arrow_r right-icon">></view>
+            <view class="rt_container">xxx</view>
+        </view>
+    </view>
+    <view class="li">
+        <view class="a" >
+            <view class="cate-title">邮箱</view>
+            <view class="imwap-arrow_r right-icon">></view>
+            <view class="rt_container">xxx</view>
+        </view>
+    </view>
+    <view class="li">
+        <view class="a" >
+            <view class="cate-title">生日</view>
+            <view class="imwap-arrow_r right-icon">></view>
+            <view class="rt_container">xxx</view>
+        </view>
+    </view>
+    <view class="li">
+        <view class="a" >
+            <view class="cate-title">所在地区</view>
+            <view class="imwap-arrow_r right-icon">></view>
+            <view class="rt_container">xxx</view>
+        </view>
+    </view>
+</view>
