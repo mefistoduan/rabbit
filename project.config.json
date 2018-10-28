@@ -54,9 +54,16 @@
 					"query": ""
 				},
 				{
+<<<<<<< HEAD
+					"id": 4,
+					"name": "appraise",
+					"pathName": "pages/appraise/appraise",
+					"query": ""
+=======
 					"id": -1,
 					"name": "person",
 					"pathName": "pages/person/person"
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
 				}
 			]
 		}

@@ -15,6 +15,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf />
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="person.wxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/pages/person/person.wxml">
@@ -35,6 +38,7 @@
         </entry>
       </file>
     </leaf>
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -48,6 +52,7 @@
       <find>ul</find>
       <find>*</find>
       <find>img</find>
+      <find>div</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;手机&quot;</replace>
@@ -55,8 +60,8 @@
       <replace>a.png</replace>
       <replace>29</replace>
       <replace>&lt;navigator</replace>
-      <replace>view</replace>
       <replace>image</replace>
+      <replace>view</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -81,9 +86,14 @@
         <option value="$PROJECT_DIR$/client/pages/mine/mine.json" />
         <option value="$PROJECT_DIR$/client/pages/order_detail/order_detail.wxml" />
         <option value="$PROJECT_DIR$/client/pages/order_detail/order_detail.wxss" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/client/pages/appraise/appraise.wxml" />
+        <option value="$PROJECT_DIR$/client/pages/appraise/appraise.wxss" />
+=======
         <option value="$PROJECT_DIR$/client/pages/mine/mine.wxml" />
         <option value="$PROJECT_DIR$/client/pages/person/person.wxss" />
         <option value="$PROJECT_DIR$/client/pages/person/person.wxml" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
       </list>
     </option>
   </component>
@@ -138,11 +148,19 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scratches" />
+=======
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+    <property name="SearchEverywhereHistoryKey" value="appra&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/appraise/appraise.wxss&#10;appr&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/appraise/appraise.wxml&#10;order_detail&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/order_detail/order_detail.wxss&#10;mine&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/mine/mine.wxml&#10;cart&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/cart/cart.wxml&#10;app.json&#9;FILE&#9;file://D:/rabbit/client/app.json" />
+=======
     <property name="SearchEverywhereHistoryKey" value="person&#9;FILE&#9;file://D:/rabbit/client/pages/person/person.wxss&#10;mine&#9;FILE&#9;file://D:/rabbit/client/pages/mine/mine.wxml&#10;order_detail&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/order_detail/order_detail.wxss&#10;cart&#9;FILE&#9;file://D:/Downloads/rabbit2/client/pages/cart/cart.wxml&#10;app.json&#9;FILE&#9;file://D:/rabbit/client/app.json" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -190,19 +208,56 @@
       <workItem from="1539867917779" duration="8473000" />
       <workItem from="1540044453301" duration="227000" />
       <workItem from="1540103267842" duration="13478000" />
+<<<<<<< HEAD
+      <workItem from="1540533121509" duration="4190000" />
+=======
       <workItem from="1540301235294" duration="2577000" />
       <workItem from="1540469360800" duration="3011000" />
+<<<<<<< HEAD
       <workItem from="1540726166440" duration="2000" />
+=======
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
+>>>>>>> 7380a31e868930194c76dfb5d7d704ff2687e2d4
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="32014000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="30614000" />
+=======
+    <option name="totallyTimeSpent" value="32012000" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
+>>>>>>> 7380a31e868930194c76dfb5d7d704ff2687e2d4
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+=======
+<<<<<<< HEAD
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16227607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
+>>>>>>> 7380a31e868930194c76dfb5d7d704ff2687e2d4
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -221,6 +276,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,13 +302,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/order_detail/order_detail.wxml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="861">
+          <caret line="41" column="26" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="26" />
+          <folding />
+=======
         <state relative-caret-position="1911">
           <caret line="91" column="40" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="40" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/order_detail/order_detail.wxss">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+=======
         <state relative-caret-position="5040">
           <caret line="240" column="21" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
         </state>
@@ -262,41 +329,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
           <caret line="41" column="26" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="26" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/index/index.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
+<<<<<<< HEAD
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="22" />
+=======
           <caret line="1" column="22" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="22" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1617">
+<<<<<<< HEAD
+          <caret line="77" column="13" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="77" selection-end-column="13" />
+=======
           <caret line="77" column="13" selection-start-line="65" selection-start-column="7" selection-end-line="77" selection-end-column="13" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/catalog/catalog.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
+<<<<<<< HEAD
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+=======
           <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/app.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
+<<<<<<< HEAD
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+=======
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/index/index.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
+<<<<<<< HEAD
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="22" />
+=======
           <caret line="1" column="22" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="22" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -324,7 +412,11 @@
     <entry file="file://$PROJECT_DIR$/client/pages/index/index.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
+<<<<<<< HEAD
+          <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+=======
           <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -345,7 +437,11 @@
     <entry file="file://$PROJECT_DIR$/client/pages/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1557">
+<<<<<<< HEAD
+          <caret line="77" column="13" lean-forward="false" selection-start-line="65" selection-start-column="7" selection-end-line="77" selection-end-column="13" />
+=======
           <caret line="77" column="13" selection-start-line="65" selection-start-column="7" selection-end-line="77" selection-end-column="13" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -362,7 +458,11 @@
     <entry file="file://$PROJECT_DIR$/client/pages/catalog/catalog.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
+<<<<<<< HEAD
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+=======
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -376,7 +476,11 @@
     <entry file="file://$PROJECT_DIR$/client/pages/catalog/catalog.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="591">
+<<<<<<< HEAD
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+=======
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -384,6 +488,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+<<<<<<< HEAD
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wechat-weapp-mall/pages/cart/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wechat-weapp-mall/pages/cart/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wechat-weapp-mall/pages/cart/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wechat-weapp-mall/pages/cart/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/cart/cart.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/cart/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/cart/cart.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="25" />
+=======
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -397,14 +554,22 @@
     <entry file="file://$PROJECT_DIR$/client/app.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
+<<<<<<< HEAD
+          <caret line="17" column="57" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+=======
           <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/index/index.wxss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
+<<<<<<< HEAD
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="131" selection-end-column="1" />
+=======
           <caret line="111" selection-start-line="111" selection-end-line="131" selection-end-column="1" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -412,6 +577,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-93">
           <caret line="41" column="53" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="53" />
+<<<<<<< HEAD
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/mine/mine.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="45" column="22" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="22" />
+=======
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -420,15 +595,25 @@
     <entry file="file://$PROJECT_DIR$/client/pages/mine/mine.wxss" />
     <entry file="file://$PROJECT_DIR$/client/pages/order_detail/order_detail.wxss">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="21">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+=======
         <state relative-caret-position="552">
           <caret line="240" column="21" selection-start-line="240" selection-start-column="21" selection-end-line="240" selection-end-column="21" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/pages/order_detail/order_detail.wxml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="42">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+=======
         <state relative-caret-position="615">
           <caret line="91" column="40" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="40" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
         </state>
       </provider>
     </entry>
@@ -439,17 +624,49 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/client/pages/order_detail/order_detail.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/order_detail/order_detail.wxml">
+=======
     <entry file="file://$PROJECT_DIR$/client/pages/person/person.wxss">
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/client/pages/appraise/appraise.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pages/appraise/appraise.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding />
+=======
     <entry file="file://$PROJECT_DIR$/client/pages/person/person.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
+<<<<<<< HEAD
           <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+=======
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+>>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
+>>>>>>> 7380a31e868930194c76dfb5d7d704ff2687e2d4
         </state>
       </provider>
     </entry>

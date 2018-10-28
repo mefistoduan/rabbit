@@ -1,0 +1,44 @@
+<view class="detail_extra">
+    <view class="detail_row detail_row_cmt">
+        <view class="tit" id="summaryTitle">评价</view>
+        <view class="good" id="evalRateP">好评
+            <view class="evalRate">97%</view>
+        </view>
+        <view class="count">共
+            <view class="num" id="evalNo2">6700+</view>
+            条
+        </view>
+    </view>
+    <view class="detail_row detail_cmt" id="mainCmt" style="">
+        <view class="cmt_tag cmt_tag_new" id="evalTag">
+            <view no="3" ptag="7001.1.213">好评(6500+)</view>
+            <view no="2" ptag="7001.1.214">中评(70+)</view>
+            <view no="1" ptag="7001.1.215" class="bad">差评(50+)</view>
+            <view no="4" ptag="7001.1.216">有图(1300+)</view>
+            <view class="disabled" ptag="7001.1.217">画质清晰(28)</view>
+            <view class="disabled" ptag="7001.1.217">纯正艳丽(22)</view>
+            <view class="disabled" ptag="7001.1.217">高端大气(8)</view>
+            <view class="cmt_list_wrap">
+                <view class="cmt_list" id="evalDet_main">
+                    <view>
+                        <view class="cmt_user">
+                            <view class="user">v***u</view>
+                            <view class="date">2018-10-16</view>
+                        </view>
+                        <view class="cmt_cnt full_content">
+                            MacBookAir完美支持，可惜台式机不支持，毕竟太老了！view和VGA接口都不能支持2k，不知到这两个接口用来干嘛！接了也不能很好的显示，就是多了接口吧！音箱就那样吧跟小天鹅这个音箱没法比！连MacBook的也比他好！
+                            <view class="expand_icon"></view>
+                        </view>
+                        <view class="cmt_att">
+                            <view class="img">
+                                <image></image>
+                                <image></image>
+                                <image></image>
+                            </view>
+                        </view>
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
