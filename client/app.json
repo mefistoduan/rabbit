@@ -6,13 +6,8 @@
     "pages/mine/mine",
     "pages/order_detail/order_detail",
     "pages/appraise/appraise",
-<<<<<<< HEAD
     "pages/person/person",
-    "pages/goods_detail/goods_detail",
-    "pages/wxParse/wxParse"
-=======
-    "pages/person/person"
->>>>>>> e8c4df1910f64dc0c0299a9e067da7ff32b1d85e
+    "pages/goods_detail/goods_detail"
   ],
   "tabBar": {
     "list": [
