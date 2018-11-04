@@ -1,6 +1,8 @@
 {
-	"miniprogramRoot": "client/",
-	"qcloudRoot": "server/",
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
 	"setting": {
 		"urlCheck": false,
 		"es6": true,
@@ -8,8 +10,16 @@
 		"minified": true,
 		"newFeature": true
 	},
+	"compileType": "miniprogram",
+	"libVersion": "2.2.5",
 	"appid": "wxb7eb65565488d9dd",
 	"projectname": "rabbit",
+	"qcloudRoot": "server/",
+	"miniprogramRoot": "client/",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
 	"condition": {
 		"search": {
 			"current": -1,
@@ -27,7 +37,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 4,
+			"current": 5,
 			"list": [
 				{
 					"id": -1,
@@ -54,16 +64,16 @@
 					"query": ""
 				},
 				{
-<<<<<<< HEAD
-					"id": 4,
-					"name": "appraise",
-					"pathName": "pages/appraise/appraise",
-					"query": ""
-=======
 					"id": -1,
 					"name": "person",
-					"pathName": "pages/person/person"
->>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
+					"pathName": "pages/person/person",
+					"query": ""
+				},
+				{
+					"id": 5,
+					"name": "goods_detail",
+					"pathName": "pages/goods_detail/goods_detail",
+					"query": ""
 				}
 			]
 		}

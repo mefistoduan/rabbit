@@ -5,11 +5,10 @@
     "pages/cart/cart",
     "pages/mine/mine",
     "pages/order_detail/order_detail",
-<<<<<<< HEAD
-    "pages/appraise/appraise"
-=======
-    "pages/person/person"
->>>>>>> a79f2ad4616df8e7a98ea6b8b3786aad64bce39e
+    "pages/appraise/appraise",
+    "pages/person/person",
+    "pages/goods_detail/goods_detail",
+    "pages/wxParse/wxParse"
   ],
   "tabBar": {
     "list": [
