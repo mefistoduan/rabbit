@@ -7,7 +7,8 @@
     "pages/order_detail/order_detail",
     "pages/appraise/appraise",
     "pages/person/person",
-    "pages/goods_detail/goods_detail"
+    "pages/goods_detail/goods_detail",
+    "pages/address_add/address_add"
   ],
   "tabBar": {
     "list": [
