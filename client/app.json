@@ -8,7 +8,9 @@
     "pages/appraise/appraise",
     "pages/person/person",
     "pages/goods_detail/goods_detail",
-    "pages/address_add/address_add"
+    "pages/address_add/address_add",
+    "pages/my_coupon/my_coupon",
+    "pages/notice/notice"
   ],
   "tabBar": {
     "list": [

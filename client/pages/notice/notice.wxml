@@ -1,0 +1,6 @@
+<view class="notice">
+  <view class="title">通知公告</view>
+  <view class="text">
+       {{article}}
+    </view>
+</view>
