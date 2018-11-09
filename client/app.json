@@ -10,7 +10,8 @@
     "pages/goods_detail/goods_detail",
     "pages/address_add/address_add",
     "pages/my_coupon/my_coupon",
-    "pages/notice/notice"
+    "pages/notice/notice",
+    "pages/recharge/recharge"
   ],
   "tabBar": {
     "list": [
