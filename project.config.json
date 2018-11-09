@@ -37,7 +37,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 9,
+			"current": 10,
 			"list": [
 				{
 					"id": -1,
@@ -96,7 +96,13 @@
 				{
 					"id": -1,
 					"name": "recharge",
-					"pathName": "pages/recharge/recharge"
+					"pathName": "pages/recharge/recharge",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "deliver",
+					"pathName": "pages/deliver/deliver"
 				}
 			]
 		}
