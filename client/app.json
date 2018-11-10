@@ -12,7 +12,8 @@
     "pages/my_coupon/my_coupon",
     "pages/notice/notice",
     "pages/recharge/recharge",
-    "pages/deliver/deliver"
+    "pages/deliver/deliver",
+    "pages/sign/sign"
   ],
   "tabBar": {
     "list": [

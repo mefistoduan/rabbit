@@ -120,6 +120,7 @@ page {
     width: 25%;
     float: left;
     text-align: center;
+    font-size: 14px;
 }
 
 .li_4 image {

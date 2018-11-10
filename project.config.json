@@ -37,7 +37,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 10,
+			"current": 12,
 			"list": [
 				{
 					"id": -1,
@@ -102,7 +102,19 @@
 				{
 					"id": -1,
 					"name": "deliver",
-					"pathName": "pages/deliver/deliver"
+					"pathName": "pages/deliver/deliver",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "sign",
+					"pathName": "pages/sign/sign",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "index",
+					"pathName": "pages/index/index"
 				}
 			]
 		}

@@ -78,6 +78,9 @@ Page({
         // })
 
     },
+  gocatalog:function(e){
+    let thisCata = e.target.dataset.cata;
+  }
 
  
 })

@@ -7,7 +7,7 @@
     </view>
     <view class="nav_right">
         <view wx:if="{{navRightItems[curIndex].goods[0].name}}">
-            <block wx:for="{{navRightItems[curIndex].goods}}">
+            <block wx:for="{{navRightItems[curIndex].goods}}" wx:key="{{navRightItems}}">
                 <view class="nav_right_items">
                     <navigator url="">
                         <view>
