@@ -37,10 +37,10 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 12,
+			"current": 0,
 			"list": [
 				{
-					"id": -1,
+					"id": 0,
 					"name": "catalog",
 					"pathName": "pages/catalog/catalog",
 					"query": ""
@@ -114,7 +114,8 @@
 				{
 					"id": -1,
 					"name": "index",
-					"pathName": "pages/index/index"
+					"pathName": "pages/index/index",
+					"query": ""
 				}
 			]
 		}

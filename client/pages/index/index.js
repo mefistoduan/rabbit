@@ -2,7 +2,7 @@
 var qcloud = require('../../vendor/wafer2-client-sdk/index')
 var config = require('../../config')
 var util = require('../../utils/util.js')
-
+var app = getApp();
 Page({
     data: {
         userInfo: {},
@@ -80,7 +80,9 @@ Page({
     },
   gocatalog:function(e){
     let thisCata = e.target.dataset.cata;
+    app.globalData.thisCata = thisCata;
+    wx.switchTab({
+      url: '../catalog/catalog' //跳转页面的路径，可带参数 ？隔开，不同参数用 & 分隔；相对路径，不需要.wxml后缀
+    })
   }
-
- 
 })

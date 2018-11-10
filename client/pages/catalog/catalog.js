@@ -6,7 +6,18 @@ Page({
         curNav: 1,
         curIndex: 0,
         nodata:'暂无数据'
-    },
+  }, 
+  /**
+   * 生命周期函数--监听页面显示
+   */
+  onShow: function () {
+    let thisCata = parseInt(app.globalData.thisCata);
+    let numCata = thisCata + 1;
+    this.setData({
+      curNav: numCata
+    })
+  },
+
     onLoad: function() {
 
         var that = this;

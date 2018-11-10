@@ -118,6 +118,7 @@ page {
 
 .tab_header .li_4 {
     width: 25%;
+    overflow: hidden;
     float: left;
     text-align: center;
     font-size: 14px;
