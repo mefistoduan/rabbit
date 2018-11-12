@@ -1,14 +1,14 @@
 <view class="container">
   <view class="swiper-container" wx:if="{{!goodsDetail.basicInfo.videoId}}">
     <swiper class="swiper_box" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" bindchange="swiperchange">
-      <block wx:for="{{imgUrls}}">
+      <block wx:for="{{imgUrls}}" wx:key="{{imgUrls}}">
         <swiper-item>
           <image src="{{item}}" class="slide-image" width="355" height="150" mode="aspectFit" lazy-load="true" />
         </swiper-item>
       </block>
     </swiper>
     <view class="dots">
-      <block wx:for="{{imgUrls}}" wx:key="unique">
+      <block wx:for="{{imgUrls}}" wx:key="{{imgUrls}}">
         <view class="dot{{index == swiperCurrent ? ' active' : ''}}"></view>
       </block>
     </view>
@@ -62,7 +62,7 @@
         <view class="pop-goods-close" bindtap="closePopupTap"></view>
       </view>
       <view class="size-label-box">
-        <block wx:for="{{goodsDetail.properties}}" wx:for-item="property" >
+        <block wx:for="{{goodsDetail.properties}}" wx:for-item="property" wx:key="{{goodsDetail.properties}}">
           <view class="label">{{property.name}}</view>
           <view class="label-item-box">
             <view class="label-item {{item.active ? 'active' : '' }}" wx:for="{{property.childsCurGoods}}" wx:key="id" bindtap="labelItemTap" data-propertyindex="{{idx}}" data-propertyid="{{property.id}}" data-propertyname="{{property.name}}" data-propertychildindex="{{index}}"
